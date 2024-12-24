@@ -1,1 +1,1 @@
-# odin-recipes
+This project is about building a webpage that provides links for recipes.
